@@ -1,8 +1,9 @@
 <?php
 /**
 Plugin Name: TablePress Restrict Authors
+Plugin URI: https://github.com/fisherab/tablepress-restrict-authors
 Description: Table Press "Extension" that prevents users unable to edit or delete other people's posts to perform that operation on a table.
-Version: 2020-07-29
+Version: 2020-07-31
 Author: Steve Fisher
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
